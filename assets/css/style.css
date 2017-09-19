@@ -1,0 +1,45 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/eurof55.ttf);
+}
+
+h1 {
+    font-family: myFirstFont;
+
+}
+
+body {
+    background-color: #040301;
+    color:#d9d5c3;
+}
+
+/* middle content of the page col-md-8 */
+.middle {
+    background-color: #7c2220;
+    color:#d9d5c3;
+    height: 500px;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+    min-height: 100%;
+    height: 100%;
+    /* Negative indent footer by its height */
+    margin: 0 auto -60px;
+    /* Pad bottom by footer height */
+    padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+    height: 60px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    background-color: #d9d5c3;
+    position: absolute;
+    color: #040301;
+}
+
