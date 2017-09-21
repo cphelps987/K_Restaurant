@@ -4,7 +4,7 @@
 }
 
 h1 {
-    font-family: myFirstFont;
+    font-family: myFirstFont, 'Roboto', sans-serif;
 
 }
 
@@ -17,7 +17,10 @@ body {
 .middle {
     background-color: #7c2220;
     color:#d9d5c3;
-    height: 500px;
+    height: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
 }
 
 /* Wrapper for page content to push down footer */
@@ -41,5 +44,9 @@ body {
     background-color: #d9d5c3;
     position: absolute;
     color: #040301;
+}
+
+.front {
+    width: 100%;
 }
 
