@@ -1,26 +1,54 @@
 @font-face {
-    font-family: myFirstFont;
-    src: url(font/eurof55.ttf);
+    font-family: eurofurence;
+    src: url(../font/eurof55.ttf);
+}
+@font-face {
+    font-family: Calibri;
+    src: url(../font/Calibri.ttf);
 }
 
-h1 {
-    font-family: myFirstFont, 'Roboto', sans-serif;
+h1, h2, h3, h4, h5, h6 {
+    font-family: eurofurence, 'Roboto', sans-serif;
 
+}
+p{
+    font-family: Calibri, 'Roboto', sans-serif;
+    font-size: 16px;
 }
 
 body {
     background-color: #040301;
     color:#d9d5c3;
 }
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+button {
+    padding: 0px;
+    border:0px;
+}
+
+a {
+    color: #d9d5c3;
+}
+
+.rightNav {
+    margin-top: 10px;
+}
+
+
 
 /* middle content of the page col-md-8 */
 .middle {
     background-color: #7c2220;
     color:#d9d5c3;
-    height: 800px;
+    height: 100%;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 25px;
+    padding-bottom: 100px;
 }
 
 /* Wrapper for page content to push down footer */
@@ -28,13 +56,15 @@ body {
     min-height: 100%;
     height: 100%;
     /* Negative indent footer by its height */
-    margin: 0 auto -60px;
+   /* margin: 0 auto -60px;*/
     /* Pad bottom by footer height */
     padding: 0 0 60px;
+    margin-bottom: -50px;
+
 }
 
 /* Set the fixed height of the footer here */
-#footer {
+.footer {
     height: 60px;
     bottom: 0;
     width: 100%;
@@ -47,11 +77,64 @@ body {
     font-size: 20px;
 }
 
-.front {
-    width: 100%;
+.footer , .push {
+    height:50px;
 }
 
-.hours, .info {
+.info, .hours{
     width: 50%;
+    padding-left: 0px;
 }
 
+.map {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.reviews {
+    padding: 10px;
+}
+
+.staff {
+    position: relative;
+    width: 33.33%;
+    float:left;
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/*image*/
+.Chef {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: black;
+}
+/*images of the staff*/
+.staff:hover .overlay {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}

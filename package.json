@@ -1,0 +1,30 @@
+{
+  "name": "k_restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.1",
+    "instafeed.js": "^1.4.1",
+    "mongoose": "^4.11.14",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cphelps987/K_Restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cphelps987/K_Restaurant/issues"
+  },
+  "homepage": "https://github.com/cphelps987/K_Restaurant#readme"
+}
