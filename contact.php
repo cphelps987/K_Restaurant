@@ -47,7 +47,7 @@
         </div>
     </div>
 </div> <!--end of wrap-->
-
+<div class="push"></div>
 <?php include 'include/footer.php';?>
 
 </body>

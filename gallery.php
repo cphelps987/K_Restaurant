@@ -22,6 +22,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
+                    <li><a href="chef.php">Chef</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li class="active"><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
@@ -49,6 +50,7 @@
         </div>
     </div>
 </div> <!--end of wrap-->
+<div class="push"></div>
 
 <?php include 'include/footer.php';?>
 

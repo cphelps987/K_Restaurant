@@ -45,10 +45,12 @@ a {
     background-color: #7c2220;
     color:#d9d5c3;
     height: 100%;
-    padding-left: 30px;
+    /*padding-left: 30px;
     padding-right: 30px;
     padding-top: 25px;
-    padding-bottom: 100px;
+    padding-bottom: 100px;*/
+    padding: 25px, 30px, 100px, 30px;
+
 }
 
 /* Wrapper for page content to push down footer */
@@ -62,24 +64,28 @@ a {
     margin-bottom: -50px;
 
 }
+.footerContainer {
+    background-color: #d9d5c3;
+
+}
 
 /* Set the fixed height of the footer here */
 .footer {
-    height: 60px;
+    line-height: 50px;
     bottom: 0;
     width: 100%;
-    text-align: center;
     vertical-align: middle;
     padding: 10px;
     background-color: #d9d5c3;
-    position: absolute;
     color: #040301;
     font-size: 20px;
+    text-align: center;
 }
 
 .footer , .push {
-    height:50px;
+    height:60px;
 }
+
 
 .info, .hours{
     width: 50%;
