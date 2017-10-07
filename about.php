@@ -44,17 +44,21 @@
                 <h1>About</h1>
                 <p>K Restaurant & Wine Bar is a locally owned and operated. The menu changes daily according to the availability of fresh ingredients from locally sourced Central Florida farms and artisans. The K menu is New-American cuisine with an Italian flare. We pride ourselves on our quality food and service. K Restaurant also accommodates private parties and events.</p>
 
-                        <h1>Awards</h1>
-                        <p>
-                        <a target="_blank" href="https://www.opentable.com/best-orlando-florida-restaurants?topic=Best%20Overall"><img src="assets/images/openTable.png" style="height: 50px; width: auto"></a>&nbsp;&nbsp;OpenTable -Diners Choice Best of Orlando / Central Florida East Best Overall Restaurants
-                        <br>
-                        Best Overall, Best Food, Best Service, Best Ambiance, & Best Value
-                        <br><br>
-                        <a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant/"> <img src="assets/images/goodFood100.jpg" style="height: 50px; width: auto"></a>&nbsp;&nbsp;2017 Good Food 100 Restaurants list
+                <!--MAP-->
+                <iframe class="map" width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ0cg9ymZ654gRpPJc2TTCufo&key=AIzaSyCeel10zfVvCOhrrUG_3ArjQNGQC2sKelw" allowfullscreen></iframe>
 
+                        <h1>Awards & Reviews</h1>
+                        <p>
+                            <a target="_blank" href="https://www.opentable.com/best-orlando-florida-restaurants?topic=Best%20Overall"><img src="assets/images/openTable.png" style="height: 50px; width: auto"></a>&nbsp;&nbsp;OpenTable -Diners Choice Best of Orlando / Central Florida East Best Overall Restaurants
+                            <br>
+                            Best Overall, Best Food, Best Service, Best Ambiance, & Best Value
+                            <br><br>
+                            <a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant/"> <img src="assets/images/goodFood100.jpg" style="height: 50px; width: auto"></a>&nbsp;&nbsp;2017 Good Food 100 Restaurants list
+                            <br><br>
+                            <a target="_blank" href="https://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants/"> <img src="assets/images/USAToday.jpg" style="height: 50px; width: auto">&nbsp;&nbsp;Orlando's Best Restaurants: Top-Tier Tables to Lauded Local Faves
                         </p>
 
-                <iframe class="map" width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ0cg9ymZ654gRpPJc2TTCufo&key=AIzaSyCeel10zfVvCOhrrUG_3ArjQNGQC2sKelw" allowfullscreen></iframe>
+
 
                 <form class="form-inline">
                     <div class="form-group reviews">
