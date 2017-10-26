@@ -24,9 +24,10 @@
                     <li><a href="about.php">About</a></li>
                     <li><a href="chef.php">Chef</a></li>
                     <li><a href="menu.php">Menu</a></li>
+                    <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="gardenHouse.php">The Garden House</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -44,24 +45,27 @@
                 <img src="assets/images/K.jpg" style="width:100%">
 
                 <div class="col-sm-2 hours pull-left">
-               <!-- <script type='text/javascript' src='//www.opentable.com/widget/reservation/loader?rid=347401&domain=com&type=button&theme=standard&lang=en-US&overlay=false&iframe=true'></script>-->
-                <h1>Hours of Operation</h1>
-                    <p>
-                        Monday 5:00-9:00<br>
-                        Tuesday 5:00-9:00<br>
-                        Wednesday 5:00-9:00<br>
-                        Thursday 5:00-9:00<br>
-                        Friday 5:00-10:00<br>
-                        Saturday 5:00-10:00<br>
-                        Sunday Closed<br>
-                    </p>
-                    <div>
-                        <h1>Happy Hour</h1>
-                        <p>Monday – Friday 5PM – 7PM</p>
-                    </div>
-                    <div>
+
+                    <h1>Hours of Operation</h1>
+                        <p>
+                            Monday 5:00-9:00<br>
+                            Tuesday 5:00-9:00<br>
+                            Wednesday 5:00-9:00<br>
+                            Thursday 5:00-9:00<br>
+                            Friday 5:00-10:00<br>
+                            Saturday 5:00-10:00<br>
+                            Sunday Closed<br>
+                        </p>
+                        <div>
+                            <h1>Happy Hour</h1>
+                            <p>Monday – Friday </p>
+                            <p>5PM – 7PM</p>
+                            <p>Location at K Bar, Porch & Garden Patio</p>
+                        </div>
+
+                    <div><!--start of modal-->
                         <!-- Trigger the modal with a button -->
-                        <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal">Parking</button>
+                        <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Parking</button>
 
                         <!-- Modal -->
                         <div class="modal fade" id="myModal" role="dialog">
@@ -83,67 +87,36 @@
                                 </div>
 
                             </div>
-                        </div>
-                    </div>
+                        </div> <!--end of modal--fade-->
+                    </div><!--end of modal-->
+                </div><!--end of col-2-hours-left-->
 
-                </div>
                 <div class="col-sm-2 info pull-right">
                     <h1>Join K's Email List</h1>
-                    <form id="contact-form" method="post" action="contact.php" role="form">
+                        <form action="https://krestaurantwinebar.createsend.com/t/j/s/vyukuy/" method="post" id="subForm">
+                            <p>
+                                <label for="fieldName">Name</label><br />
+                                <input id="fieldName" name="cm-name" type="text" required/>
+                            </p>
+                            <p>
+                                <label for="fieldEmail">Email</label><br />
+                                <input id="fieldEmail" name="cm-vyukuy-vyukuy" type="email" required />
+                            </p>
+                                <button type="button" class="btn btn-default">Subscribe</button>
+                        </form>
 
-                        <div class="controls">
-
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <label for="form_name">Firstname *</label>
-                                        <input id="form_name" type="text" name="name" class="form-control" placeholder="" required="required" data-error="Firstname is required.">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <label for="form_lastname">Lastname *</label>
-                                        <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="" required="required" data-error="Lastname is required.">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <label for="form_email">Email *</label>
-                                        <input id="form_email" type="email" name="email" class="form-control" placeholder="" required="required" data-error="Valid email is required.">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <!--<div class="col-md-6">
-                                </div>-->
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <input class="btn btn-default" type="submit" value="Submit">
-                                </div>
-                            </div>
-
-
-                        </div>
-
-                    </form>
-
-                </div>
+                </div> <!--end of col-2-info-right-->
             </div>
+            </div><!--end of md-8 middle-->
 
             </div>
             <div class="col-md-2">
 
             </div>
 
-        </div>
-    </div>
-<div class="push"></div>
 </div> <!--end of wrap-->
 
+<div class="push"></div>
 <?php include 'include/footer.php';?>
 
 </body>

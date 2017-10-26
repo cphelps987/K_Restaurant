@@ -23,11 +23,11 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="chef.php">Chef</a></li>
-                    <li class="active"><a href="menu.php">Menu</a></li>
-                    <li><a href="awards.php">Awards</a></li>
+                    <li><a href="menu.php">Menu</a></li>
+                    <li class="active"><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li><a href="gardenHouse.php">Contact</a></li>
+                    <li><a href="gardenHouse.php">The Garden House</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -42,39 +42,26 @@
                 <img src="assets/images/k_restaurant_Web.svg">
             </div>
             <div class="col-md-8 middle">
-            <div>
-                <h1>Menu</h1>
+                <h1>Awards</h1>
+                <p>
+                    <!--opentable-->
+                    <a target="_blank" href="https://www.opentable.com/best-orlando-florida-restaurants?topic=Best%20Overall"><img src="assets/images/openTable.jpg" style="height: 50px; width: auto"></a>&nbsp;&nbsp;OpenTable -Diners Choice Best of Orlando / Central Florida East Best Overall Restaurants
+                    <br>
+                    <div class="OTA">Best Overall, Best Food, Best Service, Best Ambiance, & Best Value</div>
+                    <br><br>
+                    <!--goodfood-->
+                    <a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant/"> <img src="assets/images/goodFood100.jpg" style="height: 50px; width: auto"></a>&nbsp;&nbsp;2017 Good Food 100 Restaurants list
+                    <br><br>
+                    <!--usatoday-->
+                    <a target="_blank" href="https://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants/"> <img src="assets/images/USAToday.jpg" style="height: 50px; width: auto"></a>&nbsp;&nbsp;Orlando's Best Restaurants: Top-Tier Tables to Lauded Local Faves
+                    <br><br>
+                    <!--fodors-->
+                    <a target="_blank" href="http://www.fodors.com/world/north-america/usa/florida/orlando/restaurants/reviews/k-restaurant-wine-bar-430210"><img src="assets/images/fodors.png" style="height: 50px; width: auto"></a>&nbsp;&nbsp;Fordor's Travel - Fodor's Choice for Restaurant in Orlando, Florida
 
-                <ul class="nav nav-tabs">
-                    <li class="active"><a data-toggle="tab" href="#menu">Menu</a></li>
-                    <li><a data-toggle="tab" href="#menu1">Sweet Endings</a></li>
-                    <li><a data-toggle="tab" href="#menu2">Bar List</a></li>
-                    <li><a data-toggle="tab" href="#menu3">Happy Hour Menu</a></li>
+                </p>
 
-                </ul>
+            </div><!--end of col-md-8 middle-->
 
-                <div class="tab-content">
-                    <div id="menu" class="tab-pane fade in active">
-                        <?php include 'include/K_menu.php';?>
-                    </div>
-
-                    <div id="menu1" class="tab-pane fade">
-                        <?php include 'include/dessert.php';?>
-                    </div>
-
-                    <div id="menu2" class="tab-pane fade">
-                        <?php include 'include/bar.php';?>
-                    </div>
-
-                    <div id="menu3" class="tab-pane fade">
-                        <?php include 'include/happyHour.php';?>
-
-                    </div>
-
-                </div>
-            </div>
-
-            </div>
             <div class="col-md-2"></div>
         </div>
     </div>
