@@ -9,7 +9,7 @@
         <div class="container-fluid navBar">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -18,8 +18,8 @@
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapseTYUIO-1">
-                <ul class="nav navbar-nav">
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-left">
                     <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="chef.php">Chef</a></li>
@@ -42,7 +42,7 @@
                 <img src="assets/images/k_restaurant_Web.svg">
             </div>
 
-            <div class="col-md-8 middle">
+            <div class="col-md-8 middle middle1">
                 <img src="assets/images/K.jpg" style="width:100%">
 
                 <div class="col-sm-2 hours pull-left">
@@ -62,9 +62,11 @@
                     </a>
                         <div>
                             <h1>Happy Hour</h1>
-                            <p>Monday – Friday </p>
-                            <p>5PM – 7PM</p>
-                            <p>Location at K Bar, Porch & Garden Patio</p>
+                            <p>
+                                Monday – Friday<br>
+                                5PM – 7PM<br>
+                                Location at K Bar, Porch & Garden Patio<br>
+                            </p>
                         </div>
 
                     <div><!--start of modal-->
@@ -97,6 +99,7 @@
 
                 <div class="col-sm-2 info pull-right">
                     <h1>Join K's Email List</h1>
+                        <p>We keep our guests updated about events and happenings via our email list which you can easily be a part of! Simply subscribe to the K email list! We send out event emails every other week to inform interested guests on upcoming events, specials, limited menu items, etc.</p><br>
                         <form action="https://krestaurantwinebar.createsend.com/t/j/s/vyukuy/" method="post" id="subForm">
                             <p>
                                 <label for="fieldName">Name</label><br />
@@ -114,9 +117,10 @@
 
             <div class="col-md-2">
 
-            </div>
-        </div>
-    </div>
+            </div> <!--end of col 2 of main row-->
+
+        </div> <!--end of main row-->
+    </div> <!--end of container-->
 
 </div> <!--end of wrap-->
 
