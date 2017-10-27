@@ -27,7 +27,7 @@
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li><a href="gardenHouse.php">Contact</a></li>
+                    <li><a href="gardenHouse.php">The Garden House</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -44,6 +44,10 @@
             <div class="col-md-8 middle">
             <div>
                 <h1>Menu</h1>
+                <p>The menu changes daily according to the availability of fresh ingredients from locally sourced Central Florida farms and artisans. The K menu is New-American cuisine.
+                    <br><br>
+                    Please call ahead of time if you need any food accommodations. </p>
+                    <br><br>
 
                 <ul class="nav nav-tabs">
                     <li class="active"><a data-toggle="tab" href="#menu">Menu</a></li>
@@ -72,7 +76,22 @@
                     </div>
 
                 </div>
-            </div>
+                <!--<div class="row">
+                    <div class="col-md-6">
+                        
+                    </div>
+                </div>-->
+                <div style="padding: 5px;">
+                    <h1>Our Local Partners</h1>
+                    <p>Orlando's Original Artisan Bakery</p>
+                    <p>Frog Song Organics - Hawthorne, FL</p>
+                    <p>Palmetto Creek Farms</p>
+                    <p>Bradley's Country Store</p>
+                    <p>Florida & Co </p>
+                    <p>Lake Meadow Naturals</p>
+                    <p>The Barefoot Farmer of Samsula / Tomazin Farms​</p>
+                </div>
+            </div> <!--end of md 8-->
 
             </div>
             <div class="col-md-2"></div>

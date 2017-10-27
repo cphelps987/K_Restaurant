@@ -12,4 +12,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
     <script src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=406&amp;locationId=456852&amp;lang=en_US&amp;year=2017&amp;display_version=2"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108545147-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-108545147-1');
+    </script>
+
 </head>

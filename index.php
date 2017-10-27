@@ -41,6 +41,7 @@
             <div class="col-md-2">
                 <img src="assets/images/k_restaurant_Web.svg">
             </div>
+
             <div class="col-md-8 middle">
                 <img src="assets/images/K.jpg" style="width:100%">
 
@@ -56,6 +57,9 @@
                             Saturday 5:00-10:00<br>
                             Sunday Closed<br>
                         </p>
+                    <a href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US" target="_blank">
+                        <input type="button" class="btn btn-default" value="Reservation" />
+                    </a>
                         <div>
                             <h1>Happy Hour</h1>
                             <p>Monday – Friday </p>
@@ -106,13 +110,13 @@
                         </form>
 
                 </div> <!--end of col-2-info-right-->
-            </div>
             </div><!--end of md-8 middle-->
 
-            </div>
             <div class="col-md-2">
 
             </div>
+        </div>
+    </div>
 
 </div> <!--end of wrap-->
 
