@@ -30,7 +30,7 @@ a {
 }
 
 .fa {
-    font-size: 20px;
+    font-size: 24px;
     padding: 2px;
     text-decoration: none;
 
@@ -167,15 +167,36 @@ a {
     border-color: #040301;
 }
 
+td {
+    padding-right: 15px;
+}
 
+@media only screen and (max-width: 999px) {
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-collapse.collapse.in {
+        display: block !important;
+    }
+    .navbar-header .collapse, .navbar-toggle {
+        display:block !important;
+    }
+    .navbar-header {
+        float:none;
+    }
+
+}
 @media only screen and (max-width: 991px) {
     .middle1 {
-        padding-bottom: 500px;
+        padding-bottom: 840px;
     }
+
 }
 
 @media only screen and (max-width: 766px) {
     .footer {
         padding-bottom: 100px;
     }
+
 }
+

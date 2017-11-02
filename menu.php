@@ -49,7 +49,7 @@
                     Please call ahead of time if you need any food accommodations. </p>
                     <br><br>
 
-                <ul class="nav nav-tabs">
+               <ul class="nav nav-tabs">
                     <li class="active"><a data-toggle="tab" href="#menu">Menu</a></li>
                     <li><a data-toggle="tab" href="#menu1">Sweet Endings</a></li>
                     <li><a data-toggle="tab" href="#menu2">Bar List</a></li>
@@ -75,12 +75,20 @@
 
                     </div>
 
-                </div>
-                <!--<div class="row">
-                    <div class="col-md-6">
-                        
-                    </div>
-                </div>-->
+                </div> <!--end of tab content-->
+
+              <!--  <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21376&app=Word&authkey=!AK7iPULt3zDUSvY&&wdAccPdf=0" target="_blank">
+                    <input type="button" class="btn btn-default" value="K Menu" /></a>
+
+                <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21378&app=Word&authkey=!AL0Id_C-8U6oLwA&&wdAccPdf=0" target="_blank">
+                    <input type="button" class="btn btn-default" value="Dessert Menu" /></a>
+
+                <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21386&app=Word&authkey=!APfonfwsNLzwBeY&&wdAccPdf=0" target="_blank">
+                    <input type="button" class="btn btn-default" value="Happy Hour Menu" /></a>
+
+                <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21379&app=Word&authkey=!AG78UAWFhjUQctI&&wdAccPdf=0" target="_blank">
+                    <input type="button" class="btn btn-default" value="Wine & Beer Menu" /></a>-->
+
                 <div style="padding: 5px;">
                     <h1>Our Local Partners</h1>
                     <p>Orlando's Original Artisan Bakery</p>

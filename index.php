@@ -48,15 +48,34 @@
                 <div class="col-sm-2 hours pull-left">
 
                     <h1>Hours of Operation</h1>
-                        <p>
-                            Monday 5:00-9:00<br>
-                            Tuesday 5:00-9:00<br>
-                            Wednesday 5:00-9:00<br>
-                            Thursday 5:00-9:00<br>
-                            Friday 5:00-10:00<br>
-                            Saturday 5:00-10:00<br>
-                            Sunday Closed<br>
-                        </p>
+                    <table>
+                        <tbody>
+                            <p>
+                                <tr>
+                                    <td>Monday</td><td>5:00-9:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Tuesday</td><td>5:00-9:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Wednesday </td><td>5:00-9:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Thursday</td><td>5:00-9:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Friday</td><td>5:00-10:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Saturday</td><td>5:00-10:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Sunday</td><td>Closed</td>
+                                </tr>
+                            </p>
+                        </tbody>
+                    </table>
+                    <br>
                     <a href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US" target="_blank">
                         <input type="button" class="btn btn-default" value="Reservation" />
                     </a>
@@ -64,9 +83,36 @@
                             <h1>Happy Hour</h1>
                             <p>
                                 Monday – Friday<br>
-                                5PM – 7PM<br>
+                                5:00 – 7:00<br>
                                 Location at K Bar, Porch & Garden Patio<br>
                             </p>
+                            <br>
+                            <div><!--start of modal-->
+                                <!-- Trigger the modal with a button -->
+                                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal1">Happy Hour Menu</button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal1" role="dialog">
+                                    <div class="modal-dialog">
+
+                                        <!-- Modal content-->
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                <h1 class="modal-title" style="color:black">Happy Hour Menu</h1>
+                                            </div>
+                                            <div class="modal-body">
+                                                <?php include 'include/happyHour.php';?>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div> <!--end of modal--fade-->
+                            </div><!--end of happy hour menu modal-->
+                            <br>
                         </div>
 
                     <div><!--start of modal-->
@@ -111,6 +157,11 @@
                             </p>
                                 <button type="button" class="btn btn-default">Subscribe</button>
                         </form>
+
+                    <h1>Upcoming Events</h1>
+                    <a href="events.php">
+                        <img src="assets/images/web_wild_game.gif" alt="Upcoming Event Poster" style="width: 100%">
+                    </a>
 
                 </div> <!--end of col-2-info-right-->
             </div><!--end of md-8 middle-->
