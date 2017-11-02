@@ -40,12 +40,12 @@
         <div class="row">
             <div class="col-md-2">
                 <img src="assets/images/k_restaurant_Web.svg">
-            </div>
+            </div><!--end of col 2 K logo-->
 
             <div class="col-md-8 middle middle1">
                 <img src="assets/images/K.jpg" style="width:100%">
 
-                <div class="col-sm-2 hours pull-left">
+                <div class="col-md-6 col-lg-6">
 
                     <h1>Hours of Operation</h1>
                     <table>
@@ -143,7 +143,7 @@
                     </div><!--end of modal-->
                 </div><!--end of col-2-hours-left-->
 
-                <div class="col-sm-2 info pull-right">
+                <div class="col-md-6 col-lg-6">
                     <h1>Join K's Email List</h1>
                         <p>We keep our guests updated about events and happenings via our email list which you can easily be a part of! Simply subscribe to the K email list! We send out event emails every other week to inform interested guests on upcoming events, specials, limited menu items, etc.</p><br>
                         <form action="https://krestaurantwinebar.createsend.com/t/j/s/vyukuy/" method="post" id="subForm">
@@ -168,14 +168,12 @@
 
             <div class="col-md-2">
 
-            </div> <!--end of col 2 of main row-->
-
+            </div> <!--end of col 2-->
         </div> <!--end of main row-->
     </div> <!--end of container-->
-
 </div> <!--end of wrap-->
-
 <div class="push"></div>
+
 <?php include 'include/footer.php';?>
 
 </body>

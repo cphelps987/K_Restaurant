@@ -104,10 +104,10 @@ a {
 }
 
 
-.info, .hours{
+/*.info, .hours{
     width: 50%;
     padding-left: 0px;
-}
+}*/
 
 .map {
     margin-top: 10px;
@@ -171,7 +171,7 @@ td {
     padding-right: 15px;
 }
 
-@media only screen and (max-width: 999px) {
+@media screen and (max-width: 1040px) {
     .navbar-collapse.collapse {
         display: none !important;
     }
@@ -186,14 +186,8 @@ td {
     }
 
 }
-@media only screen and (max-width: 991px) {
-    .middle1 {
-        padding-bottom: 840px;
-    }
 
-}
-
-@media only screen and (max-width: 766px) {
+@media screen and (max-width: 766px) {
     .footer {
         padding-bottom: 100px;
     }
