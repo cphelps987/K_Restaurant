@@ -38,7 +38,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <img src="assets/images/k_restaurant_Web.svg">
+                <?php include 'include/logo.php';?>
             </div>
             <div class="col-md-8 middle">
                 <h1>Meet the Chefs</h1>
@@ -79,7 +79,7 @@
                     <div class="col-md-8">
                         <div class="bio">
                             <h3>Ryan McLaughlin - Chef de Cuisine</h3>
-                            <p style="padding-top: 15px;">Coming Soon</p>
+                            <p style="padding-top: 15px;">Chef Ryan McLaughlin attended and graduated from Le Cordon Blue in Orlando, FL in 2005. That same year he started working at Journey’s Restaurant in Longwood, FL. Within two years, he became Sous Chef. He then returned to Michigan, his home state in 2007 and worked at Evans Street Station in Tecumseh, Michigan as Sous Chef. Upon returning to Florida in 2009, he took over as Chef de Cuisine at Journey’s at Alaqua Country Club. Finally ending at K Restaurant in 2010 under Chef Kevin Fonzo, working his way to Sous Chef. McLaughlin has had the privilege of cooking at the James Beard House in 2013 and again in 2014. Now as Chef de Cuisine, he continues to cook using as much locally sourced ingredients as possible, based on availability and seasonality. College Park is not only where he works, but also lives, and where his love for community and the food he prepares at K Restaurant grows.</p>
                         </div>
                     </div> <!--end of sm 8-->
                 </div> <!--end of row2-->

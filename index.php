@@ -39,7 +39,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <img src="assets/images/k_restaurant_Web.svg">
+                <?php include 'include/logo.php';?>
             </div><!--end of col 2 K logo-->
 
             <div class="col-md-8 middle middle1">

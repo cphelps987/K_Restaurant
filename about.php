@@ -39,12 +39,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <img src="assets/images/k_restaurant_Web.svg">
+                <?php include 'include/logo.php';?>
             </div>
             <div class="col-md-8 middle">
                 <h1>About</h1>
-                <p>K Restaurant & Wine Bar is a locally owned and operated. The menu changes daily according to the availability of fresh ingredients from locally sourced Central Florida farms and artisans. The K menu is New-American cuisine. We pride ourselves on our quality food and service. K Restaurant also accommodates private parties and events.</p>
-
+                <p>K Restaurant & Wine Bar is a locally owned and operated since 2001. The menu changes daily according to the availability of fresh ingredients from locally sourced Central Florida farms and artisans. The K menu is New-American cuisine. We pride ourselves on our quality food and service. K Restaurant also accommodates private parties and events.</p>
 
                 <!--MAP-->
                 <iframe class="map" width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ0cg9ymZ654gRpPJc2TTCufo&key=AIzaSyCeel10zfVvCOhrrUG_3ArjQNGQC2sKelw" allowfullscreen></iframe>
@@ -78,6 +77,16 @@
                         <div class="widget_wrap" style="width:auto;height:auto;"><a href="https://www.zomato.com/orlando/k-restaurant-orlando?utm_source=referral-widget-17062605&utm_medium=review_badge&utm_campaign=widget-business" target="_newtab"><img src="https://www.zomato.com/widgets/review_badge?badge_type=rating_large&res_id=17062605&widget_lang=en"></a></div>
                     </div>
                 </form>
+                <br><br>
+                <hr>
+                <div class="row">
+                    <div class="col-md-6">
+                        <a target="_blank" href="http://www.community-paper.com/2016/09/06/dixie-highway-through-college-park/"><img src="http://www.community-paper.com/wp-content/uploads/2016/09/1977-116-0002_web.jpg" style="height: auto; width: 100%"></a>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="history">The Roy S. Yates home at 1710 Edgewater Drive in Orlando. A group of men and women can be seen standing in the yard in front of the home. There are cars in the driveway at right and the road in front of the home is brick. Information on the photograph indicates that this was the first home built on Edgewater Drive (formerly Dixie Avenue).
+                            Photo courtesy of the Historical Society of Central Florida, Inc.</p>
+                    </div>
             </div><!--end of col-md-8 middle-->
 
             <div class="col-md-2"></div>

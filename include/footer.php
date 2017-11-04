@@ -4,9 +4,12 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-2">
+                <p>
+                K Restaurant 2017
+                </p>
             </div>
             <div class="col-sm-8">
-                <p class="text-mute footerBottom">K Restaurant 2017, 1710 Edgewater Dr, Orlando, FL 32804, (407) 872-2332</p>
+                <p class="text-mute footerBottom">1710 Edgewater Dr, Orlando, FL 32804, (407) 872-2332</p>
             </div>
             <div class="col-sm-2">
                 <p>
