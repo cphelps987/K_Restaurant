@@ -79,11 +79,16 @@
                 <a target="_blank" href="http://www.orlandomagazine.com/Orlando-Magazine/May-2017/2017-Dining-Awards-Hall-of-Fame/"><img src="assets/images/rocky.jpg" style="height: auto; width: 100%"></a>
                     <br><br>
 
-                        <h1> Anthony “Rocky” Mazza</h1>
+                        <h1> Anthony “Rocky” Mazza </h1>
                         <h3>He is Orlando’s server extraordinare. 'K?</h3>
                             <p>
                                 A fervent cadre of regular diners at K Restaurant in College Park make a point of asking to be served by Anthony Mazza. “Where’s Rocky?” they’ll ask, although it’s usually very evident when he’s in the house. His distinctive voice is hard to miss.
-                                <br><br>
+
+                                <script>function toggleDisplay(d,b){var c=document.getElementById(d);if(c.style.display=="block"){c.style.display="none";if(b){b.innerHTML="Read more..."}}else{c.style.display="block";if(b){b.innerHTML="Fold in..."}}};</script>
+                                <style type="text/css">.toggleLink{color:#d9d5c3;text-decoration:underline}.toggleLink:hover{cursor:pointer}.elaboration{display:none}</style>
+                                <span class="toggleLink" onclick="toggleDisplay('elaboration_1',this)">Read more...</span> <span class="elaboration" id="elaboration_1">
+
+                                <br>
                                 “I was talking in the airport in New York City,” the 60-year-old Mazza says. “And this woman spun around and said, ‘You’re that famous waiter.’ I told her, ‘Yes, I am.’”
                                 <br><br>
                                 Rocky, whose family comes from Calabria and Abruzzi, Italy, started in the food business when he was a 15-year-old dishwasher at an Orlando establishment called Yankee Lobster Pot. Stints at Mack Meiner’s Cafe Society Restaurant (busboy) and Steak 'n Shake  (server) led to a job as the youngest culinary waiter at the fabled Villa Nova, where he made Caesar salads and flambéed cherries jubilee at tableside. There was the Navy after high school, jobs in New York and San Francisco, all what he calls his “wild years” before a settling down—of sorts—as a costume-wearing, outrageous waiter at the casual but otherwise low-key Harvey’s Bistro downtown.
@@ -95,10 +100,12 @@
                                 “I’ve led a very colorful life,” says Rocky, who has been writing a one-man show for 15 years. “This is me.”
                                 krestaurant.net —J.H
                                 <br><br>
-                                Orlando Magazine May-2017
+                                    <a target="_blank" href="http://www.orlandomagazine.com/Orlando-Magazine/May-2017/2017-Dining-Awards-Hall-of-Fame/">Orlando Magazine May-2017</a>
                             </p>
                 <br><br>
                 <p>
+                    <a target="_blank" href="http://www.orlandomagazine.com/Orlando-Magazine/May-2017/2017-Dining-Awards-Hall-of-Fame/">Orlando Magazine - 2017 Dining Awards Hall of Fame</a>
+                    <br><br>
                     <a target="_blank" href="http://www.community-paper.com/2015/10/29/best-of-32804-winners-announced/"> College Park Community Paper Best of 32804 (2015) - Favorite Server</a>
                     <br><br>
                     <a target="_blank" href="http://www.community-paper.com/2013/10/01/the-best-of-32804-captures-the-character-of-college-park/"> College Park Community Paper Best of 32804 (2013) - Most Requested Server Runner-Up</a>
