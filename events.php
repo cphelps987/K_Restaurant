@@ -75,6 +75,12 @@
                     <?php include 'include/event3.php';?>
                 </div> <!--end of row4-->
 
+                <br><br><hr>
+
+                <div class="row">
+                    <?php include 'include/event4.php';?>
+                </div> <!--end of row5-->
+
             </div> <!--  end of col-md-8-->
             <div class="col-md-2"></div>
         </div>
