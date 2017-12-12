@@ -80,22 +80,33 @@ a:hover {
     margin-bottom: -50px;
 
 }
-.footerContainer {
+
+.footer {
     background-color: #d9d5c3;
+    color: #040301;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    vertical-align: middle;
 
 }
+/*.footerContainer {
+    background-color: #d9d5c3;
 
-/* Set the fixed height of the footer here */
+}*/
+
+/*!* Set the fixed height of the footer here *!
 .footer {
     line-height: 50px;
     bottom: 0;
     width: 100%;
-   /* vertical-align: middle;*/
+   !* vertical-align: middle;*!
     padding: 10px;
     background-color: #d9d5c3;
     color: #040301;
     font-size: 20px;
-    /*text-align: center;*/
+    !*text-align: center;*!
 }
 
 .footer , .push {
@@ -105,7 +116,7 @@ a:hover {
 .footerBottom {
     text-align: center;
     vertical-align: middle;
-}
+}*/
 
 .map {
     margin-top: 10px;

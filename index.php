@@ -75,6 +75,13 @@
                             </p>
                         </tbody>
                     </table>
+
+                    <br>
+                       <p>
+                            Closed December 24-26, January 1, 2018
+                            <br>
+                            Open December 31 - Prix Fixe/ A La Carte Menu
+                       </p>
                     <br>
                     <a href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US" target="_blank">
                         <input type="button" class="btn btn-default" value="Reservation" />
