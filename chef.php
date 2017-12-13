@@ -24,6 +24,7 @@
                     <li><a href="about.php">About</a></li>
                     <li class="active"><a href="chef.php">Chef</a></li>
                     <li><a href="menu.php">Menu</a></li>
+                    <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
                     <li><a href="gardenHouse.php">The Garden House</a></li>

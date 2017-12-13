@@ -50,77 +50,78 @@
                     <h1>Hours of Operation</h1>
                     <table>
                         <tbody>
-                            <p>
-                                <tr>
-                                    <td>Monday</td><td>5:00-9:00</td>
-                                </tr>
-                                <tr>
-                                    <td>Tuesday</td><td>5:00-9:00</td>
-                                </tr>
-                                <tr>
-                                    <td>Wednesday </td><td>5:00-9:00</td>
-                                </tr>
-                                <tr>
-                                    <td>Thursday</td><td>5:00-9:00</td>
-                                </tr>
-                                <tr>
-                                    <td>Friday</td><td>5:00-10:00</td>
-                                </tr>
-                                <tr>
-                                    <td>Saturday</td><td>5:00-10:00</td>
-                                </tr>
-                                <tr>
-                                    <td>Sunday</td><td>Closed</td>
-                                </tr>
-                            </p>
+
+                        <tr>
+                            <td>Monday</td><td>5:00-9:00</td>
+                        </tr>
+                        <tr>
+                            <td>Tuesday</td><td>5:00-9:00</td>
+                        </tr>
+                        <tr>
+                            <td>Wednesday </td><td>5:00-9:00</td>
+                        </tr>
+                        <tr>
+                            <td>Thursday</td><td>5:00-9:00</td>
+                        </tr>
+                        <tr>
+                            <td>Friday</td><td>5:00-10:00</td>
+                        </tr>
+                        <tr>
+                            <td>Saturday</td><td>5:00-10:00</td>
+                        </tr>
+                        <tr>
+                            <td>Sunday</td><td>Closed</td>
+                        </tr>
+
                         </tbody>
                     </table>
-
-                    <br>
-                       <p>
-                            Closed December 24-26, January 1, 2018
-                            <br>
-                            Open December 31 - Prix Fixe/ A La Carte Menu
-                       </p>
                     <br>
                     <a href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US" target="_blank">
                         <input type="button" class="btn btn-default" value="Reservation" />
                     </a>
-                        <div>
-                            <h1>Happy Hour</h1>
-                            <p>
-                                Monday – Friday<br>
-                                5:00 – 7:00<br>
-                                Location at K Bar, Porch & Garden Patio<br>
-                            </p>
-                            <br>
-                            <div><!--start of modal-->
-                                <!-- Trigger the modal with a button -->
-                                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal1">Happy Hour Menu</button>
+                    <br>
+                    <h1>Holiday Hours</h1>
+                    <p>
+                        Closed:<br> December 24-26 <br>January 1, 2018
+                        <br><br>
+                        Open: <br>December 31 - Prix Fixe/ A La Carte Menu
+                    </p>
 
-                                <!-- Modal -->
-                                <div class="modal fade" id="myModal1" role="dialog">
-                                    <div class="modal-dialog">
+                    <div>
+                        <h1>Happy Hour</h1>
+                        <p>
+                            Monday – Friday<br>
+                            5:00 – 7:00<br>
+                            Location at K Bar, Porch & Garden Patio<br>
+                        </p>
+                        <br>
+                        <div><!--start of modal-->
+                            <!-- Trigger the modal with a button -->
+                            <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal1">Happy Hour Menu</button>
 
-                                        <!-- Modal content-->
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                                <h1 class="modal-title" style="color:black">Happy Hour Menu</h1>
-                                            </div>
-                                            <div class="modal-body">
-                                                <?php include 'include/happyHour.php';?>
-                                            </div>
-                                            <div class="modal-footer">
-                                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                            </div>
+                            <!-- Modal -->
+                            <div class="modal fade" id="myModal1" role="dialog">
+                                <div class="modal-dialog">
+
+                                    <!-- Modal content-->
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                            <h1 class="modal-title" style="color:black">Happy Hour Menu</h1>
                                         </div>
-
+                                        <div class="modal-body">
+                                            <?php include 'include/happyHour.php';?>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                        </div>
                                     </div>
-                                </div> <!--end of modal--fade-->
-                            </div><!--end of happy hour menu modal-->
-                            <br>
-                        </div>
+
+                                </div>
+                            </div> <!--end of modal--fade-->
+                        </div><!--end of happy hour menu modal-->
+                        <br>
+                    </div>
 
                     <div><!--start of modal-->
                         <!-- Trigger the modal with a button -->
@@ -152,22 +153,14 @@
 
                 <div class="col-md-6 col-lg-6">
                     <h1>Join K's Email List</h1>
-                        <p>We keep our guests updated about events and happenings via our email list which you can easily be a part of! Simply subscribe to the K email list! We send out event emails every other week to inform interested guests on upcoming events, specials, limited menu items, etc.</p><br>
-                        <form action="https://krestaurantwinebar.createsend.com/t/j/s/vyukuy/" method="post" id="subForm">
-                            <p>
-                                <label for="fieldName">Name</label><br />
-                                <input id="fieldName" name="cm-name" type="text" required/>
-                            </p>
-                            <p>
-                                <label for="fieldEmail">Email</label><br />
-                                <input id="fieldEmail" name="cm-vyukuy-vyukuy" type="email" required />
-                            </p>
-                                <button type="button" class="btn btn-default">Subscribe</button>
-                        </form>
+                    <p>We keep our guests updated about events and happenings via our email list which you can easily be a part of! Simply subscribe to the K email list! We send out event emails every other week to inform interested guests on upcoming events, specials, limited menu items, etc.</p><br>
+
+                    <div class="createsend-button" style="height:27px;display:inline-block;" data-listid="j/B9/E3E/25F/821144290EB6C8C5">
+                    </div><script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == 		document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=3'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();</script>
 
                     <h1>Upcoming Events</h1>
                     <a href="events.php">
-                        <img src="assets/images/web_wild_game.gif" alt="Upcoming Event Poster" style="width: 100%">
+                        <img src="assets/images/WFF.gif" alt="Upcoming Event Poster" style="width: 100%">
                     </a>
 
                 </div> <!--end of col-2-info-right-->
@@ -179,7 +172,7 @@
         </div> <!--end of main row-->
     </div> <!--end of container-->
 </div> <!--end of wrap-->
-<div class="push"></div>
+
 
 <?php include 'include/footer.php';?>
 

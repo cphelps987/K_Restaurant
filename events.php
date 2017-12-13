@@ -54,32 +54,34 @@
                     </div> <!--end of md 6-->
                     <div class="col-md-6">
                         <img src="assets/images/gardenPatio.jpg" style="width: 100%">
-                   </div> <!-- end of md 6-->
+                    </div> <!-- end of md 6-->
                 </div> <!--end of row1-->
 
-                <br><br><hr>
 
-                <div class="row">
-                    <?php include 'include/event1.php';?>
-                </div> <!--end of row2-->
 
                 <br><br><hr>
-
+                <!--Wine Flight Firday-->
                 <div class="row">
                     <?php include 'include/event2.php';?>
-                </div> <!--end of row3-->
-
-                <br><br><hr>
-
-                <div class="row">
-                    <?php include 'include/event3.php';?>
                 </div> <!--end of row4-->
 
                 <br><br><hr>
-
+                <!--silkScenses-->
                 <div class="row">
                     <?php include 'include/event4.php';?>
                 </div> <!--end of row5-->
+
+                <!--<br><br><hr>-->
+                <!--truffle dinner
+                        <div class="row">
+                  </div> -->
+                <!--end of row2-->
+
+                <!--<br><br><hr>-->
+                <!--Yappy Hour-->
+                <div class="row">
+                </div> <!--end of row3-->
+
 
             </div> <!--  end of col-md-8-->
             <div class="col-md-2"></div>
