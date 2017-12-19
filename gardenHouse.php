@@ -46,17 +46,19 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h1>The Garden House</h1>
-                        <p>K Restaurant is expanding by adding The Garden House located next door to K Restaurant. This venue for private parties and events opened its doors in October and allows clients to utilize the garden area and furnished inside space. The interior space includes two large seating rooms equipped with wireless projection and two lounges.
+                        <p>K Restaurant is expanding by adding The Garden House (October 2017) located next door to K Restaurant. This venue is perfect for private parties, private events, intimate wedding reception/ceremony and rehearsal dinners. Our clients have the ability to utilize the garden area and furnished inside space. The interior space includes two large seating rooms equipped with wireless projection and two lounges.
                             <br><br>
                             Private Party Capacity<br>
                             Indoor: 50 seated (25 per room)<br>
                             Outdoor: 100 seated<br>
                             <br>
-                            For more information, please contact Michelle<br>
-                            (407) 872-2332<br></p>
+                            For more information, please contact Courtney<br>
+                            (407) 872-2332<br>
+                            1716 Edgewater Drive, Orlando FL 32804<br>
+                        </p>
 
-                        <a href="mailto:info@kwinebar.com" target="_blank">
-                            <input type="button" class="btn btn-default" value="Email" /></a> <br><br>
+                        <a href="mailto:courtney.phelps@kwinebar.com" target="_blank">
+                            <input type="button" class="btn" value="Email" /></a> <br><br>
                     </div>
 
                     <div class="col-sm-6">

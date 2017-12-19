@@ -76,8 +76,8 @@
                         </tbody>
                     </table>
                     <br>
-                    <a href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US" target="_blank">
-                        <input type="button" class="btn btn-default" value="Reservation" />
+                    <a href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US" target="_blank" style="text-decoration: none">
+                        <input type="button" class="btn" value="Reservation" />
                     </a>
                     <br>
                     <h1>Holiday Hours</h1>
@@ -97,7 +97,7 @@
                         <br>
                         <div><!--start of modal-->
                             <!-- Trigger the modal with a button -->
-                            <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal1">Happy Hour Menu</button>
+                            <button type="button" class="btn" data-toggle="modal" data-target="#myModal1">Happy Hour Menu</button>
 
                             <!-- Modal -->
                             <div class="modal fade" id="myModal1" role="dialog">
@@ -113,7 +113,7 @@
                                             <?php include 'include/happyHour.php';?>
                                         </div>
                                         <div class="modal-footer">
-                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            <button type="button" class="btn" data-dismiss="modal">Close</button>
                                         </div>
                                     </div>
 
@@ -125,7 +125,7 @@
 
                     <div><!--start of modal-->
                         <!-- Trigger the modal with a button -->
-                        <button type="button" class="btn btn-default" data-toggle="modal" data-target="#myModal">Parking</button>
+                        <button type="button" class="btn" data-toggle="modal" data-target="#myModal">Parking</button>
 
                         <!-- Modal -->
                         <div class="modal fade" id="myModal" role="dialog">
@@ -142,7 +142,7 @@
                                         <img src="assets/images/parking.jpg" style="width:100%">
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn" data-dismiss="modal">Close</button>
                                     </div>
                                 </div>
 
