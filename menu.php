@@ -54,6 +54,7 @@
                     <li><a data-toggle="tab" href="#menu1">Sweet Endings</a></li>
                     <li><a data-toggle="tab" href="#menu2">Bar List</a></li>
                     <li><a data-toggle="tab" href="#menu3">Happy Hour Menu</a></li>
+                   <li><a data-toggle="tab" href="#menu4">Brunch Menu</a></li>
 
                 </ul>
 

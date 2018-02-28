@@ -5,14 +5,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <!--<a class="siteMap" href="index.php">Home</a><br>
-                <a class="siteMap" href="about.php">About</a><br>
-                <a class="siteMap" href="chef.php">Chef</a><br>
-                <a class="siteMap" href="menu.php">Menu</a><br>
-                <a class="siteMap" href="awards.php">Awards</a><br>
-                <a class="siteMap" href="gallery.php">Gallery</a><br>
-                <a class="siteMap" href="events.php">Events</a><br>
-                <a class="siteMap"  href="gardenHouse.php">The Garden House</a><br><br>-->
             </div>
 
             <div class="col-md-8">
