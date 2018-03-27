@@ -22,12 +22,12 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="chef.php">Chef</a></li>
+                    <li><a href="gardenHouse.php">Staff</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li class="active"><a href="events.php">Events</a></li>
-                    <li><a href="gardenHouse.php">The Garden House</a></li>
+                    <li><a href="gardenHouse.php">Catering</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -57,19 +57,19 @@
                     </div> <!-- end of md 6-->
                 </div> <!--end of row1-->
 
-
+                <br><br><hr>
+                <!--yappy hour-->
+                <div class="row">
+                    <?php include 'include/yappyHour.php';?>
+                </div> <!--end of row5-->
 
                 <br><br><hr>
                 <!--Wine Flight Firday-->
                 <div class="row">
-                    <?php include 'include/event2.php';?>
+                    <?php include 'include/wff.php';?>
                 </div> <!--end of row4-->
 
-                <br><br><hr>
-                <!--silkScenses-->
-                <div class="row">
-                    <?php include 'include/event4.php';?>
-                </div> <!--end of row5-->
+
 
                 <!--<br><br><hr>-->
                 <!--truffle dinner

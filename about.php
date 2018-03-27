@@ -22,12 +22,12 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li><a href="index.php">Home</a></li>
                     <li class="active"><a href="about.php">About</a></li>
-                    <li><a href="chef.php">Chef</a></li>
+                    <li><a href="staff.php">Staff</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li><a href="gardenHouse.php">The Garden House</a></li>
+                    <li><a href="gardenHouse.php">Catering</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -77,7 +77,18 @@
                         <div class="widget_wrap" style="width:auto;height:auto;"><a href="https://www.zomato.com/orlando/k-restaurant-orlando?utm_source=referral-widget-17062605&utm_medium=review_badge&utm_campaign=widget-business" target="_newtab"><img src="https://www.zomato.com/widgets/review_badge?badge_type=rating_large&res_id=17062605&widget_lang=en"></a></div>
                     </div>
                 </form>
+
                 <br><br>
+                <p>
+                    <a target="_blank" href="http://www.orlandosentinel.com/food-restaurants/os-et-k-restaurant-college-park-review-20171213-story.html">Orlando Sentinel - New owner, same high quality at K Restaurant</a>
+                    <br><br>
+                    <a target="_blank" href="https://www.scottjosephorlando.com/reviews/recent-reviews/51-american/4110-k-restaurant-wine-bar">Scott Joseph - K Restaurant & Wine Bar</a>
+                    <br><br>
+                    <a target="_blank" href="http://www.orlandodatenightguide.com/2017/11/k-restaurant-happy-hour-test-drive/">Orlando Date Night - Happy Hour Test Drive: K Restaurant</a>
+                    <br><br>
+                    <a target="_blank" href="http://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants/">USA Today 10Best - Orlando's Best Restaurants: Top-Tier Tables to Lauded Local Faves (K Restaurant Ranked #1)</a>
+                    <br><br>
+                </p>
                 <hr>
                 <div class="row">
                     <div class="col-md-6">
@@ -87,14 +98,14 @@
                         <p class="history">The Roy S. Yates home at 1710 Edgewater Drive in Orlando. A group of men and women can be seen standing in the yard in front of the home. There are cars in the driveway at right and the road in front of the home is brick. Information on the photograph indicates that this was the first home built on Edgewater Drive (formerly Dixie Avenue).
                             Photo courtesy of the Historical Society of Central Florida, Inc.</p>
                     </div>
-            </div><!--end of col-md-8 middle-->
+                </div><!--end of col-md-8 middle-->
 
-            <div class="col-md-2"></div>
+                <div class="col-md-2"></div>
+            </div>
         </div>
-    </div>
-</div> <!--end of wrap-->
-<div class="push"></div>
-<?php include 'include/footer.php';?>
+    </div> <!--end of wrap-->
+    <div class="push"></div>
+    <?php include 'include/footer.php';?>
 
 </body>
 </html>

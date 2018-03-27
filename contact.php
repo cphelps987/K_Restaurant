@@ -22,12 +22,12 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="chef.php">Chef</a></li>
+                    <li><a href="staff.php">Staff</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li><a href="gardenHouse.php">The Garden House</a></li>
+                    <li><a href="gardenHouse.php">Catering</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -48,20 +48,20 @@
                 <p>Courtney Phelps<br>
                     Catering, Marketing, & Other <br>
 
-                <a href="mailto:courtney.phelps@kwinebar.com">
-                    <input type="button" class="btn" value="Email" /></a> <br><br>
+                    <a href="mailto:courtney.phelps@kwinebar.com">
+                        <input type="button" class="btn" value="Email" /></a> <br><br>
 
                 <p>Austin Jecko<br>
                     Front of House - Employment or Concerns<br>
 
-                <a href="mailto:austin@kwinebar.com">
-                    <input type="button" class="btn" value="Email" /></a> <br><br>
+                    <a href="mailto:austin@kwinebar.com">
+                        <input type="button" class="btn" value="Email" /></a> <br><br>
 
                 <p>Ryan McLaughlin<br>
                     Back of House - Employment<br>
 
-                <a href="mailto:ryantexxmclaughlin@yahoo.com">
-                    <input type="button" class="btn" value="Email" /></a> <br><br>
+                    <a href="mailto:ryantexxmclaughlin@yahoo.com">
+                        <input type="button" class="btn" value="Email" /></a> <br><br>
 
                 </p>
 

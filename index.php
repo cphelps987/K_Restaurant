@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <?php include 'include/header.php';?>
 
-
-
 <body>
+<span itemscope itemtype="http://schema.org/Restaurant" itemscope="" itemtype="http://schema.org/Restaurant">
+
 <div class="wrap">
     <nav class="navbar navbar-inverse">
         <div class="container-fluid navBar">
@@ -25,12 +26,12 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="chef.php">Chef</a></li>
+                    <li><a href="gardenHouse.php">Staff</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li><a href="gardenHouse.php">The Garden House</a></li>
+                    <li><a href="gardenHouse.php">Catering</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -47,24 +48,20 @@
 
             <div class="col-md-8 middle middle1">
 
-
-
-
-
-                <div class="w3-content w3-display-container" style="max-width:800px">
-                    <img class="mySlides" src="assets/images/front1.jpg" style="width:100%">
-                    <a href="menu.php">
+                 <div class="w3-content w3-display-container" style="max-width:800px">
                     <img class="mySlides" src="assets/images/brunch_banner.gif" style="width:100%">
-                    </a>
-                    <a href="menu.php">
                     <img class="mySlides" src="assets/images/happyhour_banner.gif" style="width:100%">
-                    </a>
+                    <img class="mySlides" src="assets/images/fm_banner.gif" style="width:100%">
+                    <img class="mySlides" src="assets/images/tt_banner.gif" style="width:100%">
+                    <img class="mySlides" src="assets/images/front1.jpg" style="width:100%">
                     <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
                         <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
                         <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
                         <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
                         <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
                         <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+                        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+                        <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
                     </div>
                 </div>
 
@@ -97,48 +94,37 @@
                     }
                 </script>
 
-     <!--           <div class="w3-content w3-display-container">
-                    <img class="mySlides" src="assets/images/front1.jpg">
-                    <img class="mySlides" src="assets/images/brunch_banner.gif">
-                    <img class="mySlides" src="assets/images/front1.jpg">
-                    <div class="w3-center w3-display-bottommiddle">
-                        <div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
-                        <div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
-                        <span class="w3-badge demo w3-border" onclick="currentDiv(1)"></span>
-                        <span class="w3-badge demo w3-border" onclick="currentDiv(2)"></span>
-                        <span class="w3-badge demo w3-border" onclick="currentDiv(3)"></span>
-                    </div>
-                </div>-->
-                <!--<img  src="assets/images/K.jpg"style="width:100%">-->
 
                 <div class="col-md-6 col-lg-6">
 
                     <h1>Hours of Operation</h1>
                     <table>
-                        <tbody>
+                        <tbody  itemprop="openingHoursSpecification" itemscope itemtype="http://schema.org/OpeningHoursSpecification" itemprop="openingHoursSpecification" itemscope="" itemtype="http://schema.org/OpeningHoursSpecification">
+
+		<meta itemprop="openingHours" content="Mo-Th 17:00-21:00"/>
+                <meta itemprop="openingHours" content="Fri-Sa 17:00-22:00"/>
 
                         <tr>
-                            <td>Monday</td><td>5:00-9:00</td>
+                            <td>Monday</td><td>5:00 PM - 9:00 PM</td>
                         </tr>
                         <tr>
-                            <td>Tuesday</td><td>5:00-9:00</td>
+                            <td>Tuesday</td><td>5:00 PM - 9:00 PM</td>
                         </tr>
                         <tr>
-                            <td>Wednesday </td><td>5:00-9:00</td>
+                            <td>Wednesday </td><td>5:00 PM - 9:00 PM</td>
                         </tr>
                         <tr>
-                            <td>Thursday</td><td>5:00-9:00</td>
+                            <td>Thursday</td><td>5:00 PM - 9:00 PM</td>
                         </tr>
                         <tr>
-                            <td>Friday</td><td>5:00-10:00</td>
+                            <td>Friday</td><td>5:00 PM - 10:00 PM</td>
                         </tr>
                         <tr>
-                            <td>Saturday</td><td>5:00-10:00</td>
+                            <td>Saturday</td><td>5:00 PM - 10:00 PM</td>
                         </tr>
                         <tr>
-                            <td>Sunday</td><td>Closed</td>
+                        	<td>Sunday</td><td>10:00 AM - 2:00 PM</td>
                         </tr>
-
                         </tbody>
                     </table>
                     <br>
@@ -146,18 +132,19 @@
                         <input type="button" class="btn" value="Reservation" />
                     </a>
                     <br>
-                    <h1>Holiday Hours</h1>
-                    <p>
-                        Closed:<br> December 24-26 <br>January 1, 2018
-                        <br><br>
-                        Open: <br>December 31 - Prix Fixe/ A La Carte Menu
-                    </p>
 
                     <div>
+                    <h1>Special Hours</h1>
+                        <p>
+                            Easter<br>
+                            10:00 AM – 3:00 PM<br>
+                        </p>
+                        <br>
+
                         <h1>Happy Hour</h1>
                         <p>
                             Monday – Friday<br>
-                            5:00 – 7:00<br>
+                            5:00 PM – 7:00 PM<br>
                             Location at K Bar, Porch & Garden Patio<br>
                         </p>
                         <br>
@@ -215,6 +202,9 @@
                             </div>
                         </div> <!--end of modal--fade-->
                     </div><!--end of modal-->
+                    <br><br>
+
+
                 </div><!--end of col-2-hours-left-->
 
                 <div class="col-md-6 col-lg-6">
@@ -224,10 +214,14 @@
                     <div class="createsend-button" style="height:27px;display:inline-block;" data-listid="j/B9/E3E/25F/821144290EB6C8C5">
                     </div><script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == 		document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=3'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();</script>
 
+
+
                     <h1>Upcoming Events</h1>
-                    <a href="events.php">
-                        <img src="assets/images/WFF.gif" alt="Upcoming Event Poster" style="width: 100%">
-                    </a>
+                    <a href="events.php"><img src="assets/images/instagram_yappyHour.gif" alt="Upcoming Event Poster" style="width: 100%"></a>
+                    <br><br>
+                    <!--instagram_yappyHour.gif     WFF.gif      instagram_brunch.gif-->
+
+                        <br>
 
                 </div> <!--end of col-2-info-right-->
             </div><!--end of md-8 middle-->
@@ -240,7 +234,7 @@
 </div> <!--end of wrap-->
 
 
-<?php include 'include/footer.php';?>
+    <?php include 'include/footer.php';?>
 
 </body>
 </html>

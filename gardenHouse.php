@@ -22,12 +22,12 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="chef.php">Chef</a></li>
+                    <li><a href="staff.php">Staff</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="events.php">Events</a></li>
-                    <li class="active"><a href="gardenHouse.php">The Garden House</a></li>
+                    <li class="active"><a href="gardenHouse.php">Catering</a></li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right rightNav">
@@ -57,7 +57,7 @@
                             1716 Edgewater Drive, Orlando FL 32804<br>
                         </p>
 
-                        <a href="mailto:courtney.phelps@kwinebar.com" target="_blank">
+                        <a href="mailto:courtney.phelps@kwinebar.com">
                             <input type="button" class="btn" value="Email" /></a> <br><br>
                     </div>
 
