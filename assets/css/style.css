@@ -17,8 +17,8 @@ p{
 }
 
 body {
-    background-color: #040301;
-    color:#d9d5c3;
+    background-color: #CFCFCF;
+    color:black;
 }
 html, body {
     height: 100%;
@@ -26,7 +26,7 @@ html, body {
 }
 
 a {
-    color: #d9d5c3;
+    color: black;
 }
 
 a:hover {
@@ -91,8 +91,8 @@ a:hover {
 
 /* middle content of the page col-md-8 */
 .middle {
-    background-color: #7c2220;
-    color:#d9d5c3;
+    background-color: white;
+    color:black;
     height: 100%;
     padding-left: 30px;
     padding-right: 30px;
@@ -113,7 +113,7 @@ a:hover {
 }
 
 .footer {
-    background-color: #d9d5c3;
+    background-color: darkgrey;
     color: #040301;
     margin-top: 20px;
     padding-top: 20px;
@@ -218,13 +218,28 @@ td {
 }
 
 
-
-.btn {
-    background-color:#d9d5c3;
-    color: #040301;
+.buttonPage {
+    background-color: #7c2220;
+    color: white;
 }
 
+.buttonPage:hover {
+    background-color: grey;
+    color:white;
+}
 
+.toggleLink {
+    color: #7c2220;
+    text-decoration: underline
+}
+
+.toggleLink:hover {
+    cursor: pointer
+}
+
+.elaboration {
+    display: none
+}
 
 .mySlides {
     display:none
@@ -239,6 +254,26 @@ td {
 .w3-badge {
     height:13px;width:13px;padding:0
 }
+
+.buttonImg {
+    height: 25px;
+    width: auto;
+    align-content: center;
+    padding-right: 5px;
+
+}
+
+.logoK {
+    float: right;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
 
 
 @media screen and (max-width: 1040px) {
@@ -259,8 +294,14 @@ td {
 
 @media screen and (max-width: 991px) {
     .logoK {
+        all: unset;
         height: 150px;
+        margin-bottom: 10px;
 
+    }
+
+    .TA_certificateOfExcellence {
+        height: 2in;
     }
 
 }
