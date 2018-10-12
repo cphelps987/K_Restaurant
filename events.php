@@ -22,7 +22,7 @@
                 <ul class="nav navbar-nav navbar-left">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about.php">About</a></li>
-                    <li><a href="gardenHouse.php">Staff</a></li>
+                    <li><a href="staff.php">Staff</a></li>
                     <li><a href="menu.php">Menu</a></li>
                     <li><a href="awards.php">Awards</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
@@ -53,29 +53,46 @@
                         </div><script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=3'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();</script>
                     </div> <!--end of md 6-->
                     <div class="col-md-6">
-                        <img src="assets/images/gardenPatio.jpg" style="width: 100%">
+                        <img src="assets/images/event1.jpg" style="width: 100%">
+                        <!--other image is : gardenPatio.jpg-->
                     </div> <!-- end of md 6-->
                 </div> <!--end of row1-->
 
                 <br><br><hr>
-                <!--yappy hour-->
+                <!--PaintNight-->
                 <div class="row">
-                    <?php include 'include/yappyHour.php';?>
-                </div> <!--end of row5-->
+                    <?php include 'include/PaintNite.php';?>
+                </div> <!--end of Paint Nite-->
+
 
                 <br><br><hr>
                 <!--Wine Flight Firday-->
                 <div class="row">
                     <?php include 'include/wff.php';?>
-                </div> <!--end of row4-->
+                </div> <!--end of wine flight friday-->
+
+                <br><br><hr>
+                <!--Yappy Hour-->
+                <div class="row">
+                    <?php include 'include/yappyHour.php';?>
+                </div> <!--end of yappyhour-->
+
+
+                <br><br><hr>
+                <!--Grilling in the Garden-->
+                <div class="row">
+                    <?php include 'include/event3.php';?>
+                </div> <!--end of grillinginthegarden-->
 
 
 
-                <!--<br><br><hr>-->
-                <!--truffle dinner
-                        <div class="row">
-                  </div> -->
-                <!--end of row2-->
+                <br><br><hr>
+                <!--Artist-->
+                <div class="row">
+
+                </div> <!--end of Artists-->
+
+
 
                 <!--<br><br><hr>-->
                 <!--Yappy Hour-->

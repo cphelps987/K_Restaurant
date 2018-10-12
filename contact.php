@@ -49,19 +49,14 @@
                     Catering, Marketing, & Other <br>
 
                     <a href="mailto:courtney.phelps@kwinebar.com">
-                        <input type="button" class="btn" value="Email" /></a> <br><br>
+                        <input type="button" class="btn buttonPage" value="Email" /></a> <br><br>
 
                 <p>Austin Jecko<br>
                     Front of House - Employment or Concerns<br>
 
                     <a href="mailto:austin@kwinebar.com">
-                        <input type="button" class="btn" value="Email" /></a> <br><br>
+                        <input type="button" class="btn buttonPage" value="Email" /></a> <br><br>
 
-                <p>Ryan McLaughlin<br>
-                    Back of House - Employment<br>
-
-                    <a href="mailto:ryantexxmclaughlin@yahoo.com">
-                        <input type="button" class="btn" value="Email" /></a> <br><br>
 
                 </p>
 

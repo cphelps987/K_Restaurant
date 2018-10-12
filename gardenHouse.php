@@ -58,7 +58,7 @@
                         </p>
 
                         <a href="mailto:courtney.phelps@kwinebar.com">
-                            <input type="button" class="btn" value="Email" /></a> <br><br>
+                            <input type="button" class="btn buttonPage" value="Email" /></a> <br><br>
                     </div>
 
                     <div class="col-sm-6">

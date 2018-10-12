@@ -57,7 +57,8 @@
                     </div> <!--end of sm 4-->
                     <div class="col-md-8">
                         <div class="bio">
-                            <h3>Chad Phelps - Owner & Executive Chef</h3>
+                            <h3>Chad Phelps</h3>
+                            <h4>Owner & Executive Chef</h4>
                             <p style="padding-top: 15px;">K Restaurant has recently been purchased in July by the new owner, Chad Phelps, who plans to keep the same great food and service the community knows and loves. Same concept and values of farm to table.
 
                                 Phelps comes from a culinary arts and business background. He retired after 21 years in the Navy as a Chef on submarines. He moved to Florida in the 1990's and began working at Florida Hospital Celebration as an Executive Chef and won awards for his vegetarian recipes. Phelps furthered his career by owning and operating a catering business. He spent the last 13 years teaching and creating a culinary curriculum for federal prison program to teach prisoners culinary skills to be able to get a job after prison. Chad Phelps loved visiting K Restaurant as a customer. Once he heard about the sale he knew he wanted to continue the great work the previous owner started with the help of Ryan McLaughlin (Chef de Cuisine) and Michelle Hulbert (Pastry Chef) and the amazing K Restaurant staff.
@@ -65,47 +66,8 @@
                         </div>
                     </div>
                 </div> <!--end of row1-->
-
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="staff">
-                            <img src="assets/images/Ryan.jpg" alt="Ryan" class="Chef">
-                            <div class="overlay">
-                                <div class="text">Ryan McLaughlin
-                                    <p>Chef de Cuisine</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div> <!--end of sm 4-->
-                    <div class="col-md-8">
-                        <div class="bio">
-                            <h3>Ryan McLaughlin - Chef de Cuisine</h3>
-                            <p style="padding-top: 15px;">Chef Ryan McLaughlin attended and graduated from Le Cordon Blue in Orlando, FL in 2005. That same year he started working at Journey’s Restaurant in Longwood, FL. Within two years, he became Sous Chef. He then returned to Michigan, his home state in 2007 and worked at Evans Street Station in Tecumseh, Michigan as Sous Chef. Upon returning to Florida in 2009, he took over as Chef de Cuisine at Journey’s at Alaqua Country Club. Finally ending at K Restaurant in 2010 under Chef Kevin Fonzo, working his way to Sous Chef. McLaughlin has had the privilege of cooking at the James Beard House in 2013 and again in 2014. Now as Chef de Cuisine, he continues to cook using as much locally sourced ingredients as possible, based on availability and seasonality. College Park is not only where he works, but also lives, and where his love for community and the food he prepares at K Restaurant grows.</p>
-                        </div>
-                    </div> <!--end of sm 8-->
-                </div> <!--end of row2-->
-
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="staff">
-                            <img src="assets/images/Michelle.jpg" alt="Michelle" class="Chef">
-                            <div class="overlay">
-                                <div class="text">Michelle Hulbert
-
-                                    <p>Pastry Chef</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end of md 4-->
-                    <div class="col-md-8">
-                        <div class="bio">
-                            <h3>Michelle Hulbert - Pastry Chef</h3>
-                            <p style="padding-top: 15px;">Michelle Hulbert has been K Restaurant’s Pastry Chef for 6.5 years. Her passion for cooking started when she wanted to learn to cook for her family. Hulbert’s enjoyment for cooking led her to make cooking a career. She attended Le Cordon Bleu College of Culinary Arts graduating with the highest honors in January 2011. While in college Hulbert worked at Café Murano in Altamonte working in garde manger and the grill. Hulbert heard of K Restaurant and the owner Kevin Fonzo who had brought a new way of eating to Orlando called “farm to table”. K Restaurant was a way for her to be as creative as possible and stay true to herself in the kitchen. After graduation, Hulbert set a goal to work at K Restaurant. Six months to the day, Hulbert landed the Pastry Chef position and has been at K Restaurant ever since. She loves working at K Restaurant because it gives her the flexibility to use seasonal and fresh ingredients. Her desserts can be nostalgic or playful but she makes them her own. Hulbert has represented K Restaurant in the James Beard Kitchen (2014), Emeril Lagasse Boudin Bourbon & Beer (2016), and Pastry in the Park (2017) as she strives to establish herself as one of top Pastry Chefs in Orlando. </p>
-                        </div>
-                    </div><!--end of sm 8-->
-                </div> <!--end of row3-->
                 <br><br>
-                <img src="assets/images/group3.jpg" style="width:100%" class="group">
+                <!--<img src="assets/images/group3.jpg" style="width:100%" class="group">-->
                 <br><br>
                 <h1>Meet the Staff</h1>
 
@@ -122,7 +84,8 @@
                     </div> <!--end of sm 4-->
                     <div class="col-md-8">
                         <div class="bio">
-                            <h3>Austin Jecko - Front of House Manager</h3>
+                            <h3>Austin Jecko</h3>
+                            <h4>Front of House Manager</h4>
                             <p style="padding-top: 15px;">
                                 Austin Jecko started his career as a bartender at age 18 and has worked on Park Ave and Restaurant Row. While living in College Park his curiosity for the converted house on the main street captured his interest. Jecko started at K Restaurant as a bartender when it served only beer and wine.  As the Front of the House Manager for the past 4 years, he stated that the atmosphere has pushed him to grow and learn more about beer and wine. Jecko's goal for K Restaurant was to get a full-liquor license to be able to demonstrate his creative and experimental side for craft cocktails. As K Restaurant achieved that goal, Jecko enjoys the ability to make spirit mixtures as a drink chemist to make new creations taste amazing. Jecko expressed the K staff is like a family and it is rare to find a group of people who work well together. He loves being able to work alongside his work family and the talented chefs in the kitchen. He hopes to continue to cater to the community and give the best dining experience Orlando has to offer.
                             </p>

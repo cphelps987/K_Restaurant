@@ -49,14 +49,8 @@
                     <br><br>
                     Please call ahead of time if you need any food accommodations. </p>
                     <br><br>
-                    <h3>Easter Brunch</h3>
-                    <h4>April 1, 10 AM - 3 PM</h4>
-                    <p>This Easter, K Restaurant will be serving Sunday Brunch until 3PM. We will be serving the featured Lamb Rack, with Roasted Carrot Purée, Charred Spring Onion, Fava Beans, and lamb jus for $38.<br><br>
 
-Chef Michelle will bring out the sweet tooth in us and for $10 a person, guests can enjoy an unlimited dessert bar, which will include: Two types of layer cake, Almond Cake, Cookies, Cupcakes, Fruit Tarts, Mini Pies, &Cake Pops.<br><br>
 
-In addition, K will be offering carafes of Easter Rosé Sangria for $25, or $8 for a glass; along with $8 floral-themed cocktails during brunch, A la Aviation and Ma Vie en Rose.</p>
-                    <br><br><hr>
 
 
 
@@ -94,21 +88,12 @@ In addition, K will be offering carafes of Easter Rosé Sangria for $25, or $8 f
 
                 </div> <!--end of tab content-->
 
-                <!--  <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21376&app=Word&authkey=!AK7iPULt3zDUSvY&&wdAccPdf=0" target="_blank">
-                      <input type="button" class="btn btn-default" value="K Menu" /></a>
 
-                  <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21378&app=Word&authkey=!AL0Id_C-8U6oLwA&&wdAccPdf=0" target="_blank">
-                      <input type="button" class="btn btn-default" value="Dessert Menu" /></a>
+                    <br><br><hr>
 
-                  <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21386&app=Word&authkey=!APfonfwsNLzwBeY&&wdAccPdf=0" target="_blank">
-                      <input type="button" class="btn btn-default" value="Happy Hour Menu" /></a>
 
-                  <a href="https://onedrive.live.com/view.aspx?cid=6df4eaf32db52c86&id=documents&resid=6DF4EAF32DB52C86%21379&app=Word&authkey=!AG78UAWFhjUQctI&&wdAccPdf=0" target="_blank">
-                      <input type="button" class="btn btn-default" value="Wine & Beer Menu" /></a>-->
-                    <br>
-                    <div>
-                    <img src="assets/images/fm_banner.gif" style="width:100%">
-                    </div>
+
+                <br><br>
 
                 <div style="padding: 5px;">
                     <h1>Our Local Partners</h1>

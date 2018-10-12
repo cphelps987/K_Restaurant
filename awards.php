@@ -49,81 +49,81 @@
                 <p>
                 <table>
                     <tbody>
-                        <tr>
-                            <!--goodfood100-->
-                            <td class="awards"><a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant-2/"> <img src="assets/images/goodFood100.jpg" style="height: 100px; width: auto">			</a></td>
-                            <td class="awards">2018 Good Food 100 Restaurants list</td>
-                        </tr>
-                        <tr>
-                            <!--opentable diner choice award-->
-                            <td class="awards"><a target="_blank" href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US"> <img src="assets/images/DinersChoiceAward.jpg" style="height: 100px;"></a> </td>
-                            <td class="awards">OpenTable - Diners' Choice Awards 2018</td>
-                        </tr>
-                        <tr>
-                            <!--usatoday-->
-                            <td class="awards"><a target="_blank" href="https://www.10best.com/destinations/florida/orlando/restaurants/romantic-dining/"> <img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid"></a> </td>
-                            <td class="awards">Rated #1: Isn't It Romantic? Orlando's Date Night Delights & Special-Occasion Splurges (2018) </td>
-                        </tr>
-                        <tr>
-                            <!--usatoday-->
-                            <td class="awards"><a target="_blank" href="http://www.10best.com/destinations/florida/orlando/restaurants/brunch/amp/?__twitter_impression=true"> <img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"></a> </td>
-                            <td class="awards">Rated #1: Brunch! Top Orlando Options for the Undisputed Queen of Meals (2018) </td>
-                        </tr>
-                        <tr>
-                            <!--orlando sentinal-->
-                            <td class="awards"><a target="_blank" href="http://www.orlandosentinel.com/food-restaurants/foodie-awards/os-2018-orlando-sentinel-foodie-awards-best-neighborhood-20180315-story.html"> <img src="assets/images/os.jpg" style="height: 100px; width: auto"></a> </td>
-                            <td class="awards">2018 Orlando Sentinel Foodie Awards: Best Neighborhood Runner-Up</td>
-                        </tr>
-                        <tr>
-                            <!--orlando sentinal-->
-                            <td class="awards"><a target="_blank" href="http://www.orlandosentinel.com/food-restaurants/foodie-awards/os-2018-orlando-sentinel-foodie-awards-best-romantic-20180315-story.html"> <img src="assets/images/os.jpg" style="height: 100px; width: auto"></a> </td>
-                            <td class="awards">2018 Orlando Sentinel Foodie Awards: Best Romantic Editors Runner-up</td>
-                        </tr>
-                        <tr>
-                            <!--scott joseph-->
-                            <td class="awards"><a target="_blank" href="https://www.scottjosephorlando.com/news/4255-best-dessert-foodsters-go-to-sugarbuzz-david-ramirez-chocolates"> <img src="assets/images/SJ.jpg" style="height: 100px; width: auto"></a> </td>
-                            <td class="awards">Scott Joseph Oralndo Restaurant Guide - 3rd Place for Best Dessert Foodsters (2018) </td>
-                        </tr>
-                        <tr>
-                            <!--yelp-->
-                            <td class="awards"><a target="_blank" href="https://www.yelp.com/biz/k-restaurant-orlando"><img src="assets/images/BIZM_20170511_PLUOY_IGFeed_1080x1080.jpg" style="height: 100px; width: auto"></a></td>
-                            <td class="awards">People Love Us on Yelp Award 2017</td>
-                        </tr>
-                        <tr>
-                            <!--opentable-->
-                            <td class="awards"><a target="_blank" href="https://www.opentable.com/best-orlando-florida-restaurants?topic=Best%20Overall"><img src="assets/images/openTable.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"></a></td>
-                            <td class="awards">OpenTable - Diners Choice Best of Orlando / Central Florida East Best Overall Restaurants (2017)<br><br>Best Overall, Best Food, Best Service, Best Ambiance, & Best Value</td>
-                        </tr>
-                        <tr>
-                            <!--usatoday-->
-                            <td class="awards"><img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"> </td>
-                            <td class="awards">Rated #1: USA Today 10Best - Orlando's Best Restaurants: Top-Tier Tables to Lauded Local Faves (2017)
-                            </td>
-                        </tr>
-                        <tr>
-                            <!--goodfood-->
-                            <td class="awards"><a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant/"> <img src="assets/images/goodFood100.jpg" style="height: 100px; width: auto"></a></td>
-                            <td class="awards">2017 Good Food 100 Restaurants list</td>
-                        </tr>
-                        <tr>
-                            <!--fodors-->
-                            <td class="awards"><a target="_blank" href="http://www.fodors.com/world/north-america/usa/florida/orlando/restaurants/reviews/k-restaurant-wine-bar-430210"><img src="assets/images/fodors.png" style="height: 100px; width: auto"></a></td>
-                            <td class="awards">Fordor's Travel - Fodor's Choice for Restaurant in Orlando, Florida</td>
-                        </tr>
-                        <tr>
-                            <!--usatoday-->
-                            <td class="awards"><a target="_blank" href="https://www.orlandoweekly.com/Blogs/archives/2014/07/15/usa-today-names-orlandos-best-non-chain-restaurants"><img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"></a> </td>
-                            <td class="awards">Orlando's Best Non-Chain Restaurants (2014) </td>
-                        </tr>
-                        <tr>
-                            <!--college park community paper-->
-                            <td class="awards"></td>
-                            <td class="awards"><a target="_blank" href="http://www.community-paper.com/2015/10/29/best-of-32804-winners-announced/">College Park Community Paper Best of 32804 (2015) - Best Date Night</a></td>
-                        </tr>
-                        <tr>
-                            <td class="awards"></td>
-                            <td class="awards"><a target="_blank" href="http://www.community-paper.com/2013/10/01/the-best-of-32804-captures-the-character-of-college-park/">College Park Community Paper Best of 32804 (2013) - Best Date Night</a></td>
-                        </tr>
+                    <tr>
+                        <!--goodfood100-->
+                        <td class="awards"><a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant-2/"> <img src="assets/images/goodFood100.jpg" style="height: 100px; width: auto">			</a></td>
+                        <td class="awards">2018 Good Food 100 Restaurants list</td>
+                    </tr>
+                    <tr>
+                        <!--opentable diner choice award-->
+                        <td class="awards"><a target="_blank" href="https://www.opentable.com/k-restaurant-reservations-orlando?restref=23929&lang=en-US"> <img src="assets/images/DinersChoiceAward.jpg" style="height: 100px;"></a> </td>
+                        <td class="awards">OpenTable - Diners' Choice Awards 2018</td>
+                    </tr>
+                    <tr>
+                        <!--usatoday-->
+                        <td class="awards"><a target="_blank" href="https://www.10best.com/destinations/florida/orlando/restaurants/romantic-dining/"> <img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid"></a> </td>
+                        <td class="awards">Rated #1: Isn't It Romantic? Orlando's Date Night Delights & Special-Occasion Splurges (2018) </td>
+                    </tr>
+                    <tr>
+                        <!--usatoday-->
+                        <td class="awards"><a target="_blank" href="http://www.10best.com/destinations/florida/orlando/restaurants/brunch/amp/?__twitter_impression=true"> <img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"></a> </td>
+                        <td class="awards">Rated #1: Brunch! Top Orlando Options for the Undisputed Queen of Meals (2018) </td>
+                    </tr>
+                    <tr>
+                        <!--orlando sentinal-->
+                        <td class="awards"><a target="_blank" href="http://www.orlandosentinel.com/food-restaurants/foodie-awards/os-2018-orlando-sentinel-foodie-awards-best-neighborhood-20180315-story.html"> <img src="assets/images/os.jpg" style="height: 100px; width: auto"></a> </td>
+                        <td class="awards">2018 Orlando Sentinel Foodie Awards: Best Neighborhood Runner-Up</td>
+                    </tr>
+                    <tr>
+                        <!--orlando sentinal-->
+                        <td class="awards"><a target="_blank" href="http://www.orlandosentinel.com/food-restaurants/foodie-awards/os-2018-orlando-sentinel-foodie-awards-best-romantic-20180315-story.html"> <img src="assets/images/os.jpg" style="height: 100px; width: auto"></a> </td>
+                        <td class="awards">2018 Orlando Sentinel Foodie Awards: Best Romantic Editors Runner-up</td>
+                    </tr>
+                    <tr>
+                        <!--scott joseph-->
+                        <td class="awards"><a target="_blank" href="https://www.scottjosephorlando.com/news/4255-best-dessert-foodsters-go-to-sugarbuzz-david-ramirez-chocolates"> <img src="assets/images/SJ.jpg" style="height: 100px; width: auto"></a> </td>
+                        <td class="awards">Scott Joseph Oralndo Restaurant Guide - 3rd Place for Best Dessert Foodsters (2018) </td>
+                    </tr>
+                    <tr>
+                        <!--yelp-->
+                        <td class="awards"><a target="_blank" href="https://www.yelp.com/biz/k-restaurant-orlando"><img src="assets/images/BIZM_20170511_PLUOY_IGFeed_1080x1080.jpg" style="height: 100px; width: auto"></a></td>
+                        <td class="awards">People Love Us on Yelp Award 2017</td>
+                    </tr>
+                    <tr>
+                        <!--opentable-->
+                        <td class="awards"><a target="_blank" href="https://www.opentable.com/best-orlando-florida-restaurants?topic=Best%20Overall"><img src="assets/images/openTable.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"></a></td>
+                        <td class="awards">OpenTable - Diners Choice Best of Orlando / Central Florida East Best Overall Restaurants (2017)<br><br>Best Overall, Best Food, Best Service, Best Ambiance, & Best Value</td>
+                    </tr>
+                    <tr>
+                        <!--usatoday-->
+                        <td class="awards"><img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"> </td>
+                        <td class="awards">Rated #1: USA Today 10Best - Orlando's Best Restaurants: Top-Tier Tables to Lauded Local Faves (2017)
+                        </td>
+                    </tr>
+                    <tr>
+                        <!--goodfood-->
+                        <td class="awards"><a target="_blank" href="http://goodfood100restaurants.org/work/k-restaurant/"> <img src="assets/images/goodFood100.jpg" style="height: 100px; width: auto"></a></td>
+                        <td class="awards">2017 Good Food 100 Restaurants list</td>
+                    </tr>
+                    <tr>
+                        <!--fodors-->
+                        <td class="awards"><a target="_blank" href="http://www.fodors.com/world/north-america/usa/florida/orlando/restaurants/reviews/k-restaurant-wine-bar-430210"><img src="assets/images/fodors.png" style="height: 100px; width: auto"></a></td>
+                        <td class="awards">Fordor's Travel - Fodor's Choice for Restaurant in Orlando, Florida</td>
+                    </tr>
+                    <tr>
+                        <!--usatoday-->
+                        <td class="awards"><a target="_blank" href="https://www.orlandoweekly.com/Blogs/archives/2014/07/15/usa-today-names-orlandos-best-non-chain-restaurants"><img src="assets/images/USAToday.jpg" style="height: 100px; width: auto; border: black; border-style: solid;"></a> </td>
+                        <td class="awards">Orlando's Best Non-Chain Restaurants (2014) </td>
+                    </tr>
+                    <tr>
+                        <!--college park community paper-->
+                        <td class="awards"></td>
+                        <td class="awards"><a target="_blank" href="http://www.community-paper.com/2015/10/29/best-of-32804-winners-announced/">College Park Community Paper Best of 32804 (2015) - Best Date Night</a></td>
+                    </tr>
+                    <tr>
+                        <td class="awards"></td>
+                        <td class="awards"><a target="_blank" href="http://www.community-paper.com/2013/10/01/the-best-of-32804-captures-the-character-of-college-park/">College Park Community Paper Best of 32804 (2013) - Best Date Night</a></td>
+                    </tr>
 
                     </tbody>
                 </table>

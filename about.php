@@ -65,13 +65,13 @@
                         <script src="https://www.jscache.com/wejs?wtype=cdsratingsonlynarrow&amp;uniq=153&amp;locationId=456852&amp;lang=en_US&amp;border=true&amp;display_version=2"></script>
                     </div>
                     <div class="form-group reviews">
-                        <div id="TA_certificateOfExcellence406" class="TA_certificateOfExcellence trip">
-                            <ul id="1xcLnxAQ1kCE" class="TA_links tYVNML4NtbB">
-                                <li id="58VjD5Etcvb" class="z5Gzkz">
-                                    <a target="_blank" href="https://www.tripadvisor.com/Restaurant_Review-g34515-d456852-Reviews-K_Restaurant_Wine_Bar-Orlando_Florida.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/awards/CoE2017_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
-                                </li>
-                            </ul>
-                        </div>
+
+
+
+
+
+
+
                     </div>
                     <div class="form-group reviews">
                         <div class="widget_wrap" style="width:auto;height:auto;"><a href="https://www.zomato.com/orlando/k-restaurant-orlando?utm_source=referral-widget-17062605&utm_medium=review_badge&utm_campaign=widget-business" target="_newtab"><img src="https://www.zomato.com/widgets/review_badge?badge_type=rating_large&res_id=17062605&widget_lang=en"></a></div>
@@ -86,13 +86,12 @@
                     <br><br>
                     <a target="_blank" href="http://www.orlandodatenightguide.com/2017/11/k-restaurant-happy-hour-test-drive/">Orlando Date Night - Happy Hour Test Drive: K Restaurant</a>
                     <br><br>
-                    <a target="_blank" href="http://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants/">USA Today 10Best - Orlando's Best Restaurants: Top-Tier Tables to Lauded Local Faves (K Restaurant Ranked #1)</a>
-                    <br><br>
+
                 </p>
                 <hr>
                 <div class="row">
                     <div class="col-md-6">
-                        <a target="_blank" href="http://www.community-paper.com/2016/09/06/dixie-highway-through-college-park/"><img src="http://www.community-paper.com/wp-content/uploads/2016/09/1977-116-0002_web.jpg" style="height: auto; width: 100%"></a>
+                        <a target="_blank" href="http://www.community-paper.com/2016/09/06/dixie-highway-through-college-park/"><img src="assets/images/Yates.jpeg" style="height: auto; width: 100%"></a>
                     </div>
                     <div class="col-md-6">
                         <p class="history">The Roy S. Yates home at 1710 Edgewater Drive in Orlando. A group of men and women can be seen standing in the yard in front of the home. There are cars in the driveway at right and the road in front of the home is brick. Information on the photograph indicates that this was the first home built on Edgewater Drive (formerly Dixie Avenue).
